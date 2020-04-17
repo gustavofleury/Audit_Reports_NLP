@@ -23,7 +23,8 @@ Colab Notebooks:
 
 ## Clustering
 
-![Classification](Classification.png)
+![Clustering](Clustering.png)
 
 Colab Notebooks:
+
 
