@@ -1,30 +1,27 @@
 Natural Language Processing applied to Audit Reports
 =============
 
-Present the python codes for master thesis:
+Present the python codes for the research:
 
 "NLP METHODS COMPARISON FOR CLASSIFICATION AND CLUSTERING OF FINDINGS IN AUDIT REPORTS"
 
 Authors: Gustavo FLEURY && Induraj RAMAMURTHY
 Oriented by: Rachid CHELOUAH
 
+All Jupyter Notebooks are tested in Google Colab environment.
+
 ## Extract
 
 ![Extract](Extract.png)
-
-Colab Notebooks:
-
 
 ## Classification
 
 ![Classification](Classification.png)
 
-Colab Notebooks:
-
 ## Clustering
 
 ![Clustering](Clustering.png)
 
-Colab Notebooks:
+## Classification RESULTS:
 
-
+![ClaResults](ClaResults.png)
